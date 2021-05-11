@@ -1,0 +1,22 @@
+{
+  "name": "graphqlautomation",
+  "version": "1.0.0",
+  "description": "Graphql automation with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/fetchcountry.test.js"
+  },
+  "keywords": [
+    "graphql",
+    "graphql",
+    "automation",
+    "graphql",
+    "request"
+  ],
+  "author": "mohdjeeshan",
+  "license": "ISC",
+  "devDependencies": {
+    "graphql": "^15.5.0",
+    "graphql-request": "^3.4.0"
+  }
+}
